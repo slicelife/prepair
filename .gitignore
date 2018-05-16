@@ -18,3 +18,5 @@ CMakeFiles
 cmake_install.cmake
 CMakeCache.txt
 libprepair.dylib
+CTestTestfile.cmake
+DartConfiguration.tcl
