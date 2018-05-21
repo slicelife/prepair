@@ -2,7 +2,7 @@
 
 #include "PolygonRepair.h"
 
-extern "C" char* validate(char* polygon);
+extern "C" char* repair(char* polygon);
 
 class Polyfix {};
 
