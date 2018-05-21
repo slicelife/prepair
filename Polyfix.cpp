@@ -1,6 +1,6 @@
 #include "Polyfix.h"
 
-char* validate(char* polygon){
+char* repair(char* polygon){
   char *error;
   OGRGeometry *geometry;
 
