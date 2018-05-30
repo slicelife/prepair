@@ -1,6 +1,6 @@
-#include "Polyfix.h"
+#include "PolygonRepair.h"
 
-char* repair(char* polygon){
+extern "C" char* repair(char* polygon){
   char *error;
   OGRGeometry *geometry;
 
